@@ -1,0 +1,21 @@
+body{
+    background-color: darkgrey;
+    color:black;
+    font-family: 'Arial Black';
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    color:aqua;
+
+}
+table{
+    width: 100%;
+    border: 1px solid #000;
+    background-color:lightblue;
+}
+th,td{
+    text-align: center;
+   vertical-align: center;
+   border: 1px solid #000;
+}
